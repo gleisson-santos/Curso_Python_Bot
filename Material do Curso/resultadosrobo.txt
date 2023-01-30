@@ -1,0 +1,98 @@
+Welcome to Python.org;https://www.python.org/
+Welcome to Python.org;https://www.python.org/
+;https://harve.com.br/blog/programacao-python-blog/python-para-que-serve-top-5-utilidades/
+;https://python.org.br/introducao/
+;https://pt.wikihow.com/Come%C3%A7ar-a-Programar-em-Python
+;https://mundodevops.com/blog/linguagem-python/
+Python: o que é, como usar, guia pra aprender a linguagem;https://blog.betrybe.com/python/
+Cursos da Escola Python, Programação - Alura;https://www.alura.com.br/cursos-online-programacao/python
+;https://www.inf.pucrs.br/pinho/PCB/Variaveis/Variaveis.html
+;https://cafeinacodificada.com.br/5-ides-para-programar-python/
+;https://www.alura.com.br/artigos/listas-no-python
+;https://canaltech.com.br/mercado/desenvolvedores-da-python-lancam-3-novas-versoes-da-linguagem-de-programacao-206897/
+;https://canaltech.com.br/mercado/desenvolvedores-da-python-lancam-3-novas-versoes-da-linguagem-de-programacao-206897/
+Python Brasil;https://python.org.br/
+Python – Wikipédia, a enciclopédia livre;https://pt.wikipedia.org/wiki/Python
+Guia Completo de Python - DevMedia;https://www.devmedia.com.br/guia/python/37024
+Imagens;https://www.google.com/search?q=python&tbm=isch&source=iu&ictx=1&vet=1&fir=dBw3S5J4QQ2RIM%252C-H0QUty8Ayg2uM%252C%252Fm%252F05z1_%253BqPvUzmDFVaFIUM%252CD3HgVGwizTVPMM%252C_%253B9fpps9heKSdsMM%252Cl4uursrE5fcXFM%252C_%253BRmmUKq-2e8gHPM%252C3wRBXLyvECcz0M%252C_%253BL8L--4395PS5MM%252CmWclbk542EwrPM%252C_%253BtgsozZjEKIsviM%252CN9Q9z5XJPg2g3M%252C_&usg=AI4_-kT3fXqA3vvTU2-3XhW66G20fJUXvg&sa=X&ved=2ahUKEwjJxsOxvtj2AhVirpUCHcKgBiIQ_B16BAgkEAE#imgrc=dBw3S5J4QQ2RIM
+Imagens;https://www.google.com/search?q=python&tbm=isch&source=iu&ictx=1&vet=1&fir=dBw3S5J4QQ2RIM%252C-H0QUty8Ayg2uM%252C%252Fm%252F05z1_%253BqPvUzmDFVaFIUM%252CD3HgVGwizTVPMM%252C_%253B9fpps9heKSdsMM%252Cl4uursrE5fcXFM%252C_%253BRmmUKq-2e8gHPM%252C3wRBXLyvECcz0M%252C_%253BL8L--4395PS5MM%252CmWclbk542EwrPM%252C_%253BtgsozZjEKIsviM%252CN9Q9z5XJPg2g3M%252C_&usg=AI4_-kT3fXqA3vvTU2-3XhW66G20fJUXvg&sa=X&ved=2ahUKEwjJxsOxvtj2AhVirpUCHcKgBiIQ_B16BAgkEAE#imgrc=dBw3S5J4QQ2RIM
+PyCharm: the Python IDE for Professional Developers by ...;https://www.jetbrains.com/pycharm/
+Python Fundamentos Para Análise de Dados 3.0 - Data ...;https://www.datascienceacademy.com.br/course/python-fundamentos
+Bibliotecas de APIs e Python | Google Cloud;https://cloud.google.com/python/docs/reference?hl=pt-br
+Python Courses, Training, and Tutorials - Udemy;https://www.udemy.com/topic/python/
+MicroPython - Python for microcontrollers;https://micropython.org/
+Introdução ao Python · HonKit - Django Girls;https://tutorial.djangogirls.org/pt/python_introduction/
+Introduction to Python - W3Schools;https://www.w3schools.com/python/python_intro.asp
+Python Courses & Tutorials | Codecademy;https://www.codecademy.com/catalog/language/python
+Maratona Python – UTFPR Digital e Inclusiva;http://www.pb.utfpr.edu.br/utfprdi/wp/?page_id=24
+Python - Visual Studio Marketplace;https://marketplace.visualstudio.com/items?itemName=ms-python.python
+Python Tutorial - Tutorialspoint;https://www.tutorialspoint.com/python/index.htm
+Learn Python Tutorials - Kaggle;https://www.kaggle.com/learn/python
+Python: 5 motivos para aprender essa linguagem de ...;https://plataformasolution.com.br/python-5-motivos-para-aprender-essa-linguagem-de-programacao/
+Online Python Compiler (Interpreter) - Programiz;https://www.programiz.com/python-programming/online-compiler/
+Python Fluente: Programação Clara, Concisa e Eficaz - Amazon;https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X
+Visualize Python, Java, JavaScript, C, C++, Ruby code ...;https://pythontutor.com/visualize.html
+python/cpython: The Python programming language - GitHub;https://github.com/python/cpython
+Individual Edition - Anaconda;https://www.anaconda.com/products/individual
+Python Mode for Processing;https://py.processing.org/
+pandas - Python Data Analysis Library;https://pandas.pydata.org/
+PyPI · The Python Package Index;https://pypi.org/
+Free Intro to Python Course - Udacity;https://www.udacity.com/course/introduction-to-python--ud1110
+Python é tendência: mercado, salários e vantagens em ...;https://www.digitalhouse.com/br/blog/por-que-aprender-python/
+Python Programming Language - GeeksforGeeks;https://www.geeksforgeeks.org/python-programming-language/
+Download & Install Python - ActiveState;https://www.activestate.com/products/python/
+Biopython · Biopython;https://biopython.org/
+Core Python Learning Path | Pluralsight;https://www.pluralsight.com/paths/core-python
+index | TIOBE - The Software Quality Company;https://www.tiobe.com/tiobe-index/
+Introduction to Python Course | DataCamp;https://www.datacamp.com/courses/intro-to-python-for-data-science
+scikit-learn: machine learning in Python — scikit-learn 1.0.2 ...;https://scikit-learn.org/
+Python Programming Interpreter na App Store;https://apps.apple.com/br/app/python-programming-interpreter/id1335895307
+Programador Python - O que faz, Salário, Carreira | Catho;https://www.catho.com.br/profissoes/programador-python/
+Python - Microsoft Developer Blogs;https://devblogs.microsoft.com/python/
+linguagem de programação Python - Voitto;https://www.voitto.com.br/blog/artigo/python
+What is Python? | Opensource.com;https://opensource.com/resources/python
+Python Institute | Python Training and Certification Programs;https://pythoninstitute.org/
+Full Stack Python;https://www.fullstackpython.com/
+Design GUI with Python | Python Bindings for Qt;https://www.qt.io/qt-for-python
+Scientific Computing with Python Certification - freeCodeCamp;https://www.freecodecamp.org/learn/scientific-computing-with-python
+Python tutorials, questions, and resources | DigitalOcean;https://www.digitalocean.com/community/tags/python
+Learn Python - Free Interactive Python Tutorial;https://www.learnpython.org/
+What is Python used for? | 10 practical Python uses;https://www.futurelearn.com/info/blog/what-is-python-used-for
+Django: The web framework for perfectionists with deadlines;https://www.djangoproject.com/
+Python - LinkedIn Learning, formerly Lynda.com;https://www.linkedin.com/learning/topics/python
+Introduction to Computer Science and Programming in Python;https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+The Hitchhiker's Guide to Python;https://docs.python-guide.org/
+Pacotes Python: confira quais são os principais e como usá-lo;https://www.remessaonline.com.br/blog/pacotes-python-confira-quais-sao-os-principais-e-como-usa-lo/
+Mouse Vs Python - Where You Can Learn All About Python ...;https://www.blog.pythonlibrary.org/
+Primeira Aula de Python - eXcript;http://excript.com/python/primeira-aula-python.html
+Google's Python Class | Python Education;https://developers.google.com/edu/python
+CodingBat Python;https://codingbat.com/python
+Welcome to Python Telegram Bot's documentation! — python ...;https://python-telegram-bot.readthedocs.io/
+Python Programming Tutorials;https://pythonprogramming.net/
+Melhor forma de executar uma automação python - Stack ...;https://pt.stackoverflow.com/questions/547090/melhor-forma-de-executar-uma-automa%C3%A7%C3%A3o-python
+PY4E - Python for Everybody;https://www.py4e.com/
+Learn Python Tutorial - javatpoint;https://www.javatpoint.com/python-tutorial
+Python - Reddit;https://www.reddit.com/r/Python/
+Python Tutorial;https://www.pythontutorial.net/
+Programming: Pick up Python | Nature;https://www.nature.com/articles/518125a
+Introdução ao Python: primeiros passos com o Google Colab;https://tc.com.br/blog/educacao-financeira/financas-programacao/python-programacao-introducao
+Python Programming - Wikibooks, open books for an open world;https://en.wikibooks.org/wiki/Python_Programming
+Project Jupyter | Home;https://jupyter.org/
+20 Python Interview Questions To Challenge Your Knowledge;https://towardsdatascience.com/20-python-interview-questions-to-challenge-your-knowledge-cddc842297c5
+Matplotlib — Visualization with Python;https://matplotlib.org/
+Debugging em python (sem IDE);http://pythonclub.com.br/debugging-em-python-sem-ide.html
+Python Tutorial: Learn Python Programming;https://pythonbasics.org/
+NumPy;https://numpy.org/
+Curso de Python Avançado - Learncafe;https://www.learncafe.com/cursos/curso-de-python-avancado-2
+Python 3: Ofertas com os Menores Preços no Buscapé;https://www.buscape.com.br/busca/python+3
+Python Courses and Tutorials: Online and On Site;https://python-course.eu/
+Python Numpy Tutorial (with Jupyter and Colab);https://cs231n.github.io/python-numpy-tutorial/
+SciPy;https://scipy.org/
+An Hour of Python: Trinket;https://hourofpython.com/
+Solve Python | HackerRank;https://www.hackerrank.com/domains/python
+Python (TV Movie 2000) - IMDb;https://www.imdb.com/title/tt0209264/
+Learning Python, 5th Edition [Book] - O'Reilly Media;https://www.oreilly.com/library/view/learning-python-5th/9781449355722/
+python | tradução de Inglês para Português;https://dictionary.cambridge.org/pt/dicionario/ingles-portugues/python
+CircuitPython;https://circuitpython.org/
+What is the Python programming language? - WhatIs.com;https://whatis.techtarget.com/definition/Python
+CS50's Introduction to Artificial Intelligence with Python;https://pll.harvard.edu/course/cs50s-introduction-artificial-intelligence-python

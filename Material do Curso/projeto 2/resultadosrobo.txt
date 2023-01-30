@@ -1,0 +1,111 @@
+Welcome to Python.org;https://www.python.org/
+Welcome to Python.org;https://www.python.org/
+;https://harve.com.br/blog/programacao-python-blog/python-para-que-serve-top-5-utilidades/
+;https://www.lewagon.com/pt-BR/blog/guia-aprender-programar-python
+;https://www.youtube.com/watch?v=PKykKhbawqo
+;https://tutorial.djangogirls.org/pt/python_installation/
+Python Brasil;https://python.org.br/
+Python – Wikipédia, a enciclopédia livre;https://pt.wikipedia.org/wiki/Python
+Guia Completo de Python - DevMedia;https://www.devmedia.com.br/guia/python/37024
+O que é Python? [Guia para iniciantes] - Tecnoblog;https://tecnoblog.net/405640/o-que-e-python-guia-para-iniciantes/
+Cursos da Escola Python, Programação - Alura;https://www.alura.com.br/cursos-online-programacao/python
+O que é e para que serve o Python? - Olhar Digital;https://olhardigital.com.br/2021/10/04/tira-duvidas/o-que-e-para-que-serve-o-python/
+Learn Python 2 | Codecademy;https://www.codecademy.com/learn/learn-python
+Python Fluente: Programação Clara, Concisa e Eficaz - Amazon;https://www.amazon.com.br/Python-Fluente-Programa%C3%A7%C3%A3o-Concisa-Eficaz/dp/857522462X
+Python - EuCapacito;https://eucapacito.com.br/curso-ec/python/
+Linguagem de Programação Python - Básico;https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico
+O que é Python, para que serve e por que aprender? - Kenzie ...;https://kenzie.com.br/blog/o-que-e-python/
+Python 3 - Mundo 1 [40 Horas] - Curso em Vídeo;https://www.cursoemvideo.com/curso/python-3-mundo-1/
+Python Pro - Let's Code;https://letscode.com.br/cursos/python-adulto
+Python: 10 motivos para aprender a linguagem em 2019;https://computerworld.com.br/carreira/python-10-motivos-para-aprender-a-linguagem-em-2019/
+Learn Python Tutorials - Kaggle;https://www.kaggle.com/learn/python
+Python Tutorial - W3Schools;https://www.w3schools.com/python/
+PCAP: Programming Essentials in Python - NetAcad;https://www.netacad.com/courses/programming/pcap-programming-essentials-python
+python/cpython: The Python programming language - GitHub;https://github.com/python/cpython
+Formação Python para DevOps - Cursos 4Linux;https://4linux.com.br/cursos/formacao-python-para-devops/
+O guia completo para aprender a programar nessa linguagem do zero;https://www.lewagon.com/pt-BR/blog/guia-aprender-programar-python
+Python in Visual Studio Code;https://code.visualstudio.com/docs/languages/python
+Python Fundamentos Para Análise de Dados 3.0 - Data ...;https://www.datascienceacademy.com.br/course/python-fundamentos
+Python Tutorial - Tutorialspoint;https://www.tutorialspoint.com/python/index.htm
+Learn Python - Free Interactive Python Tutorial;https://www.learnpython.org/
+MicroPython - Python for microcontrollers;https://micropython.org/
+python-igraph;https://igraph.org/python/
+PY4E - Python for Everybody;https://www.py4e.com/
+Python on Exercism;https://exercism.org/tracks/python
+Learn Python Programming - Programiz;https://www.programiz.com/python-programming
+Building a Python Project - Travis CI Docs;https://docs.travis-ci.com/user/languages/python/
+Python: como surgiu a linguagem e o seu cenário atual - Blog ...;https://blog.vulpi.com.br/python-como-surgiu/
+O que é Python e pra que serve? | Blog Voitto;https://www.voitto.com.br/blog/artigo/python
+Visualize Python, Java, JavaScript, C, C++, Ruby code ...;https://pythontutor.com/visualize.html
+Python for Data Science - Cognitive Class;https://cognitiveclass.ai/courses/python-for-data-science
+X = Python - Learn X in Y Minutes;https://learnxinyminutes.com/docs/python/
+Pense em Python | PensePython2e - GitHub Pages;https://penseallen.github.io/PensePython2e/
+PyCharm: the Python IDE for Professional Developers by ...;https://www.jetbrains.com/pycharm/
+Welcome to Python 101! — Python 101 1.0 documentation;https://python101.pythonlibrary.org/
+Google's Python Class | Python Education;https://developers.google.com/edu/python
+Python | TIOBE - The Software Quality Company;https://www.tiobe.com/tiobe-index/python/
+Introduction to Python Course | DataCamp;https://www.datacamp.com/courses/intro-to-python-for-data-science
+Learn Python with Online Courses, Classes, & Lessons | edX;https://www.edx.org/learn/python
+Web com Python: em Promoção no Magazine Luiza;https://www.magazineluiza.com.br/busca/Web%20com%20Python:/
+Using Python for Research | Harvard University;https://online-learning.harvard.edu/course/using-python-research
+Real Python: Python Tutorials;https://realpython.com/
+PyPI · The Python Package Index;https://pypi.org/
+Individual Edition - Anaconda;https://www.anaconda.com/products/individual
+Python Mode for Processing;https://py.processing.org/
+Python Online Training Courses | LinkedIn Learning, formerly ...;https://www.linkedin.com/learning/topics/python
+Python on Google App Engine;https://cloud.google.com/appengine/docs/python
+Python para Zumbis com Fernando Masanori - PyCursos;https://www.pycursos.com/python-para-zumbis/
+Download Connector/Python - MySQL :: Developer Zone;https://dev.mysql.com/downloads/connector/python/
+Python - Hipsters #122;https://hipsters.tech/python-hipsters-122/
+Free Intro to Python Course | Udacity;https://www.udacity.com/course/introduction-to-python--ud1110
+pandas - Python Data Analysis Library;https://pandas.pydata.org/
+Python Certifications;https://pythoninstitute.org/certification/
+How to Give Your Python Code a Magic Touch - Towards Data ...;https://towardsdatascience.com/how-to-give-your-python-code-a-magic-touch-c778eeb9ac57
+Think Python 2e - Green Tea Press;https://greenteapress.com/wp/think-python-2e/
+What is Python used for? | 10 practical Python uses;https://www.futurelearn.com/info/blog/what-is-python-used-for
+What is Python? | Opensource.com;https://opensource.com/resources/python
+Python Pro – Construa uma carreira a prova de crise;https://pythonpro.com.br/
+Core Python | Pluralsight;https://www.pluralsight.com/paths/core-python
+Python Programming Language - GeeksforGeeks;https://www.geeksforgeeks.org/python-programming-language/
+Download & Install Python - ActiveState;https://www.activestate.com/products/python/
+Learn Python with Python eBooks and Videos from Packt;https://www.packtpub.com/tech/python
+Python pioneer assesses the 30-year-old programming ...;https://venturebeat.com/2021/02/19/python-pioneer-assesses-the-30-year-old-programming-language/
+SymPy;https://www.sympy.org/
+Introduction to Computer Science and Programming in Python;https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+Jython: Home;https://www.jython.org/
+Python | Progate - Learn to code, learn to be creative.;https://progate.com/courses/python
+SAPATILHA COBRA PYTHON NAVY - REF 280.3.023C;https://www.anzetutto.com.br/sapatilha-cobra-python-navy---ref-280-3-023c/p
+Biopython · Biopython;https://biopython.org/
+Design GUI with Python | Python Bindings for Qt;https://www.qt.io/qt-for-python
+Learn Python | The #1 Best-Selling Online Python Course for ...;https://onemonth.com/courses/python
+Django: The web framework for perfectionists with deadlines;https://www.djangoproject.com/
+The Python GTK+ 3 Tutorial - Read the Docs;https://python-gtk-3-tutorial.readthedocs.io/
+Matplotlib: Python plotting — Matplotlib 3.4.3 documentation;https://matplotlib.org/
+Scientific Computing with Python Certification - freeCodeCamp;https://www.freecodecamp.org/learn/scientific-computing-with-python
+Python Software Foundation (@ThePSF) | Twitter;https://twitter.com/thepsf
+Learn Python Tutorial - javatpoint;https://www.javatpoint.com/python-tutorial
+Welcome To Colaboratory - Google Research;https://research.google.com/colaboratory/
+An oral history of Bank Python - Cal Paterson;https://calpaterson.com/bank-python.html
+Python - Developers - Dropbox;https://www.dropbox.com/developers/documentation/python
+scikit-learn: machine learning in Python — scikit-learn 1.0.1 ...;https://scikit-learn.org/
+Solve Python | HackerRank;https://www.hackerrank.com/domains/python
+What is Python? Powerful, intuitive programming | InfoWorld;https://www.infoworld.com/article/3204016/what-is-python-powerful-intuitive-programming.html
+CodingBat Python;https://codingbat.com/python
+Learn Python Core | Sololearn;https://www.sololearn.com/learning/1073
+Plotly Python Graphing Library;https://plotly.com/python/
+Code Style - The Hitchhiker's Guide to Python;https://docs.python-guide.org/writing/style/
+The Twilio Python Helper Library;https://www.twilio.com/docs/libraries/python
+An oral history of Bank Python | Hacker News;https://news.ycombinator.com/item?id=29104047
+Invent with Python;https://inventwithpython.com/
+Project Jupyter | Home;https://jupyter.org/
+Newest 'python' Questions - Stack Overflow;https://stackoverflow.com/questions/tagged/python
+Python for Excel - Página 221 - Resultado da Pesquisa de livros Google;https://books.google.com.br/books?id=wHohEAAAQBAJ&pg=PA221&lpg=PA221&dq=python&source=bl&ots=z5jP_gLUAo&sig=ACfU3U2G59OJmeTc-uwK9d5B4QBggcyXPA&hl=pt-BR&sa=X&ved=2ahUKEwiNiIiC_oH0AhWnILkGHd1JBgM4bhDoAXoECAIQAw
+Python: Visual QuickStart Guide;https://books.google.com.br/books?id=4rHnki-eRUYC&pg=PA10&lpg=PA10&dq=python&source=bl&ots=v3fd3ywNeE&sig=ACfU3U1uuecXGzKvTfywYcLXuz85kpZhqw&hl=pt-BR&sa=X&ved=2ahUKEwiNiIiC_oH0AhWnILkGHd1JBgM4bhDoAXoECAUQAw
+Python for Bioinformatics;https://books.google.com.br/books?id=xbPNBQAAQBAJ&pg=PA397&lpg=PA397&dq=python&source=bl&ots=CSah_X2TKf&sig=ACfU3U2nPgGq_1AQEtcgTeG7RMzmi_740A&hl=pt-BR&sa=X&ved=2ahUKEwiNiIiC_oH0AhWnILkGHd1JBgM4bhDoAXoECAQQAw
+Learn Programming in Python with Cody Jackson: Grasp the ...;https://books.google.com.br/books?id=RN18DwAAQBAJ&pg=PA283&lpg=PA283&dq=python&source=bl&ots=ERiMe0w5xy&sig=ACfU3U2TCcUN8YCpT96F0X2QHTz34PhaMQ&hl=pt-BR&sa=X&ved=2ahUKEwiNiIiC_oH0AhWnILkGHd1JBgM4bhDoAXoECAYQAw
+Learning Python for Forensics: Leverage the power of Python ...;https://books.google.com.br/books?id=bGSGDwAAQBAJ&pg=PA45&lpg=PA45&dq=python&source=bl&ots=vyW_kf0M70&sig=ACfU3U2Lm8h5iBLwWq9dGwMg3lJRwFNNbQ&hl=pt-BR&sa=X&ved=2ahUKEwiNiIiC_oH0AhWnILkGHd1JBgM4bhDoAXoECAMQAw
+Beyond the Basic Stuff with Python: Best Practices for ...;https://books.google.com.br/books?id=BG_cDwAAQBAJ&pg=PA129&lpg=PA129&dq=python&source=bl&ots=fyMrKVEIFp&sig=ACfU3U39S5LM7U5u-08yFD1jJVabQUSN-w&hl=pt-BR&sa=X&ved=2ahUKEwiNiIiC_oH0AhWnILkGHd1JBgM4bhDoAXoECAcQAw
+Data Science and Analytics with Python;https://books.google.com.br/books?id=GDwPEAAAQBAJ&pg=PA31&lpg=PA31&dq=python&source=bl&ots=BIBNxPXHvM&sig=ACfU3U2VEVVYg0UN2tLAoz9MOLJRTSCNEg&hl=pt-BR&sa=X&ved=2ahUKEwiNiIiC_oH0AhWnILkGHd1JBgM4bhDoAXoECAgQAw
+SciPy;https://scipy.org/
+Intel® Distribution for Python;https://www.intel.com/content/www/us/en/developer/tools/oneapi/distribution-for-python.html
+Unofficial Windows Binaries for Python Extension Packages;https://www.lfd.uci.edu/~gohlke/pythonlibs/
